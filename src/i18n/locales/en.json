@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Me",
+    "education": "Education",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "viewProjects": "View Projects",
+    "document": "Document"
+  },
+  "about": {
+    "subtitle": "Get to Know Me",
+    "title": "About Me",
+    "techStack": "Tech Stack"
+  },
+  "education": {
+    "subtitle": "Background & Expertise",
+    "title": "Education & Skills",
+    "sectionEducation": "Education",
+    "sectionSkills": "Skills"
+  },
+  "portfolio": {
+    "subtitle": "Selected Work",
+    "title": "Portfolio",
+    "search": "Search projects...",
+    "showing": "Showing",
+    "projects": "projects",
+    "project": "project",
+    "viewProject": "View Project",
+    "all": "All"
+  },
+  "contact": {
+    "subtitle": "Need Any Project?",
+    "title": "Let's Talk",
+    "description": "Have a project you'd like to bring to life? Let's discuss and make it happen together.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message"
+  },
+  "modal": {
+    "downloadDocument": "Download Document",
+    "downloadCV": "Download CV",
+    "downloadPortfolio": "Download Portfolio",
+    "close": "Close"
+  },
+  "footer": {
+    "rights": ""
+  },
+  "brand": "M. ALFATHTIYA AKBAR"
+}

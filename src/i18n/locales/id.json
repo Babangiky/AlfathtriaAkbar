@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Saya",
+    "education": "Pendidikan",
+    "portfolio": "Portofolio",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "greeting": "Hai, Saya",
+    "viewProjects": "Lihat Proyek",
+    "document": "Dokumen"
+  },
+  "about": {
+    "subtitle": "Kenali Saya",
+    "title": "Tentang Saya",
+    "techStack": "Tech Stack"
+  },
+  "education": {
+    "subtitle": "Latar Belakang & Keahlian",
+    "title": "Pendidikan & Keahlian",
+    "sectionEducation": "Pendidikan",
+    "sectionSkills": "Keahlian"
+  },
+  "portfolio": {
+    "subtitle": "Karya Pilihan",
+    "title": "Portofolio",
+    "search": "Cari proyek...",
+    "showing": "Menampilkan",
+    "projects": "proyek",
+    "project": "proyek",
+    "viewProject": "Lihat Proyek",
+    "all": "Semua"
+  },
+  "contact": {
+    "subtitle": "Punya Proyek?",
+    "title": "Mari Bicara",
+    "description": "Ada project yang ingin diwujudkan? Mari berdiskusi dan wujudkan bersama.",
+    "name": "Nama",
+    "email": "Email",
+    "subject": "Subjek",
+    "message": "Pesan",
+    "send": "Kirim Pesan",
+    "sending": "Mengirim...",
+    "success": "Pesan berhasil dikirim!",
+    "error": "Gagal mengirim pesan"
+  },
+  "modal": {
+    "downloadDocument": "Download Dokumen",
+    "downloadCV": "Download CV",
+    "downloadPortfolio": "Download Portofolio",
+    "close": "Tutup"
+  },
+  "footer": {
+    "rights": ""
+  },
+  "brand": "M. ALFATHTIYA AKBAR"
+}
