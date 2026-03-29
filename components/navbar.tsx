@@ -55,7 +55,7 @@ export const Navbar = () => {
           <AnimatedThemeToggler className="cursor-pointer" />
         </NavbarItem>
         <NavbarItem className="hidden md:flex">
-          <a href="#contact">
+          <a href="/login">
             <div className="group relative mx-auto flex items-center justify-center rounded-full px-4 py-1.5 shadow-[inset_0_-8px_10px_#8fdfff1f] transition-shadow duration-500 ease-out hover:shadow-[inset_0_-5px_10px_#8fdfff3f] cursor-pointer">
               <span
                 className={cn(
